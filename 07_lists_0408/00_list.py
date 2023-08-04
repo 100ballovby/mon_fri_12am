@@ -10,9 +10,6 @@ print([1, 2, 3] * 4)
 for i in range(len(lst)):
     print(f'Индекс {i}: {lst[i]}')
 
-
 # пребор вариант 2:
 for element in lst:
     print(f'Элемент: {element}')
-
-
